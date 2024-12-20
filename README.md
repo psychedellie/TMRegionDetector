@@ -22,7 +22,7 @@ This script identifies potential transmembrane regions in protein sequences base
 - `threshold_median`: The median hydrophobicity threshold (default: 0.75).
 
 ## Test Sequence
-A test sequence file named `test.seq` is included in the repository to help you verify the functionality of the script. You can use this sequence to see how the script identifies potential transmembrane regions.
+A test sequence file named `modified.seq` is included in the repository to help you verify the functionality of the script. You can use this sequence to see how the script identifies potential transmembrane regions.
 
 ## Installation
 
